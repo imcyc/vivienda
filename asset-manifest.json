@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/vivienda/static/css/main.eac4aefa.chunk.css",
-    "main.js": "/vivienda/static/js/main.919719d7.chunk.js",
-    "main.js.map": "/vivienda/static/js/main.919719d7.chunk.js.map",
+    "main.css": "/vivienda/static/css/main.57d6e775.chunk.css",
+    "main.js": "/vivienda/static/js/main.4701eb24.chunk.js",
+    "main.js.map": "/vivienda/static/js/main.4701eb24.chunk.js.map",
     "runtime-main.js": "/vivienda/static/js/runtime-main.8adad268.js",
     "runtime-main.js.map": "/vivienda/static/js/runtime-main.8adad268.js.map",
     "static/css/2.7116a6b8.chunk.css": "/vivienda/static/css/2.7116a6b8.chunk.css",
-    "static/js/2.2c2aff71.chunk.js": "/vivienda/static/js/2.2c2aff71.chunk.js",
-    "static/js/2.2c2aff71.chunk.js.map": "/vivienda/static/js/2.2c2aff71.chunk.js.map",
+    "static/js/2.96012e8c.chunk.js": "/vivienda/static/js/2.96012e8c.chunk.js",
+    "static/js/2.96012e8c.chunk.js.map": "/vivienda/static/js/2.96012e8c.chunk.js.map",
     "index.html": "/vivienda/index.html",
-    "precache-manifest.46f5f73e91ef6cb166620375677aef88.js": "/vivienda/precache-manifest.46f5f73e91ef6cb166620375677aef88.js",
+    "precache-manifest.4017b9974e373fd227a3380a8a118fe7.js": "/vivienda/precache-manifest.4017b9974e373fd227a3380a8a118fe7.js",
     "service-worker.js": "/vivienda/service-worker.js",
     "static/css/2.7116a6b8.chunk.css.map": "/vivienda/static/css/2.7116a6b8.chunk.css.map",
-    "static/css/main.eac4aefa.chunk.css.map": "/vivienda/static/css/main.eac4aefa.chunk.css.map",
+    "static/css/main.57d6e775.chunk.css.map": "/vivienda/static/css/main.57d6e775.chunk.css.map",
     "static/media/logo-imcyc.svg": "/vivienda/static/media/logo-imcyc.15ca9bfd.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8adad268.js",
     "static/css/2.7116a6b8.chunk.css",
-    "static/js/2.2c2aff71.chunk.js",
-    "static/css/main.eac4aefa.chunk.css",
-    "static/js/main.919719d7.chunk.js"
+    "static/js/2.96012e8c.chunk.js",
+    "static/css/main.57d6e775.chunk.css",
+    "static/js/main.4701eb24.chunk.js"
   ]
 }
