@@ -21,23 +21,23 @@ const SideMenu = () => {
                 </Link>
             </NavIcon>
             <NavText>
-                <Link to="/capsulas">CAPSULAS</Link>
+                <Link to="/capsulas">CÁPSULAS</Link>
             </NavText>
         </NavItem>
         <NavItem eventKey="home">
             <NavIcon>
                 <Link to="/cimentacion">
-                    <i className="lni-home" style={{ fontSize: '1.75em' }}></i>
+                    <i className="lni-shovel" style={{ fontSize: '1.75em' }}></i>
                 </Link>
             </NavIcon>
             <NavText>
-                <Link to="/cimentacion">CIMENTACION</Link>
+                <Link to="/cimentacion">CIMENTACIÓN</Link>
             </NavText>
         </NavItem>
         <NavItem eventKey="home">
             <NavIcon>
                 <Link to="/muros">
-                    <i className="lni-microscope" style={{ fontSize: '1.75em' }}></i>
+                    <i className="lni-brick" style={{ fontSize: '1.75em' }}></i>
                 </Link>
             </NavIcon>
             <NavText>

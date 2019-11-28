@@ -16,8 +16,10 @@ class Home extends Component {
                   <p>Manual de buenas prácticas</p>
                 </div>
                 <form>
+                  {/*
                   <input type="email" id="login" className="fadeIn second" name="email" placeholder="CORREO ELECTRÓNICO"/>
                   <input type="password" id="password" className="fadeIn third" name="password" placeholder="CONTRASEÑA"/>
+                  */}
                   <div className="container loged">
                     <div className="row">
                       <div className='col-xs-12 col-md-12 col-lg-12'>

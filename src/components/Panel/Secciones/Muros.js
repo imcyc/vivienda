@@ -29,9 +29,19 @@ const Capsulas = () => {
           <h1><i className="lni-chevron-right"></i> INFOGRAFÍAS</h1>
           <hr/>
           <div style={{maxHeight: '500px', overflow: 'auto'}}>
-            <img src="https://18.219.47.222/apis/vivienda/capsula/INFOGRAFIAS/Control_de_calidad_concreto.png" alt="" style={{width: '100%'}}/>
+            <img src="https://18.219.47.222/apis/vivienda/muros/Cerramientos_y_malla.png" alt="" style={{width: '100%'}}/>
             <hr/>
-            <img src="https://18.219.47.222/apis/vivienda/capsula/INFOGRAFIAS/Control_de_calidad_terraceria.png" alt="" style={{width: '100%'}}/>
+            <img src="https://18.219.47.222/apis/vivienda/muros/Cimbrado_para_muro_y_losa.png" alt="" style={{width: '100%'}}/>
+            <hr/>
+            <img src="https://18.219.47.222/apis/vivienda/muros/Colocacion y compactacion de concreto.png" alt="" style={{width: '100%'}}/>
+            <hr/>
+            <img src="https://18.219.47.222/apis/vivienda/muros/Colocacion_de_instalaciones.png" alt="" style={{width: '100%'}}/>
+            <hr/>
+            <img src="https://18.219.47.222/apis/vivienda/muros/Colocacion_de_silletas.png" alt="" style={{width: '100%'}}/>
+            <hr/>
+            <img src="https://18.219.47.222/apis/vivienda/muros/Curado.png" alt="" style={{width: '100%'}}/>
+            <hr/>
+            <img src="https://18.219.47.222/apis/vivienda/muros/Decimbrado_y_limpieza.png" alt="" style={{width: '100%'}}/>
           </div>
         </Col>
       </Row>

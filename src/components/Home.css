@@ -313,3 +313,14 @@ input[type=text] {
 hr {
   border-top: 1px solid rgba(0,162,210,.2);
 }
+
+.col-md-3 button {
+  background: #000;
+  border: none;
+  transition: all 1s ease-in-out;
+}
+
+.col-md-3 button:hover {
+  background: #0082BB;
+  box-shadow: 0 0 20px 10px #000000;
+}
