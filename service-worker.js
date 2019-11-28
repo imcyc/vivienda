@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vivienda/precache-manifest.e3cb1ca0b8a00ddee70b00d0d98cb90d.js"
+  "/vivienda/precache-manifest.7d5c046f769f1b9d582b971e47e6d863.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/vivienda/static/css/main.3c6e695b.chunk.css",
-    "main.js": "/vivienda/static/js/main.2cbe79d9.chunk.js",
-    "main.js.map": "/vivienda/static/js/main.2cbe79d9.chunk.js.map",
+    "main.css": "/vivienda/static/css/main.3a28e530.chunk.css",
+    "main.js": "/vivienda/static/js/main.b4a93f7f.chunk.js",
+    "main.js.map": "/vivienda/static/js/main.b4a93f7f.chunk.js.map",
     "runtime-main.js": "/vivienda/static/js/runtime-main.8adad268.js",
     "runtime-main.js.map": "/vivienda/static/js/runtime-main.8adad268.js.map",
     "static/css/2.28ac8253.chunk.css": "/vivienda/static/css/2.28ac8253.chunk.css",
     "static/js/2.5621cd39.chunk.js": "/vivienda/static/js/2.5621cd39.chunk.js",
     "static/js/2.5621cd39.chunk.js.map": "/vivienda/static/js/2.5621cd39.chunk.js.map",
     "index.html": "/vivienda/index.html",
-    "precache-manifest.e3cb1ca0b8a00ddee70b00d0d98cb90d.js": "/vivienda/precache-manifest.e3cb1ca0b8a00ddee70b00d0d98cb90d.js",
+    "precache-manifest.7d5c046f769f1b9d582b971e47e6d863.js": "/vivienda/precache-manifest.7d5c046f769f1b9d582b971e47e6d863.js",
     "service-worker.js": "/vivienda/service-worker.js",
     "static/css/2.28ac8253.chunk.css.map": "/vivienda/static/css/2.28ac8253.chunk.css.map",
-    "static/css/main.3c6e695b.chunk.css.map": "/vivienda/static/css/main.3c6e695b.chunk.css.map",
+    "static/css/main.3a28e530.chunk.css.map": "/vivienda/static/css/main.3a28e530.chunk.css.map",
     "static/media/logo-imcyc.svg": "/vivienda/static/media/logo-imcyc.15ca9bfd.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8adad268.js",
     "static/css/2.28ac8253.chunk.css",
     "static/js/2.5621cd39.chunk.js",
-    "static/css/main.3c6e695b.chunk.css",
-    "static/js/main.2cbe79d9.chunk.js"
+    "static/css/main.3a28e530.chunk.css",
+    "static/js/main.b4a93f7f.chunk.js"
   ]
 }
