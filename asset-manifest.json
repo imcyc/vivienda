@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vivienda/static/css/main.57d6e775.chunk.css",
-    "main.js": "/vivienda/static/js/main.4701eb24.chunk.js",
-    "main.js.map": "/vivienda/static/js/main.4701eb24.chunk.js.map",
+    "main.js": "/vivienda/static/js/main.f1f92618.chunk.js",
+    "main.js.map": "/vivienda/static/js/main.f1f92618.chunk.js.map",
     "runtime-main.js": "/vivienda/static/js/runtime-main.8adad268.js",
     "runtime-main.js.map": "/vivienda/static/js/runtime-main.8adad268.js.map",
     "static/css/2.7116a6b8.chunk.css": "/vivienda/static/css/2.7116a6b8.chunk.css",
     "static/js/2.96012e8c.chunk.js": "/vivienda/static/js/2.96012e8c.chunk.js",
     "static/js/2.96012e8c.chunk.js.map": "/vivienda/static/js/2.96012e8c.chunk.js.map",
     "index.html": "/vivienda/index.html",
-    "precache-manifest.4017b9974e373fd227a3380a8a118fe7.js": "/vivienda/precache-manifest.4017b9974e373fd227a3380a8a118fe7.js",
+    "precache-manifest.5e659d732744e4d9b47594fae150c18c.js": "/vivienda/precache-manifest.5e659d732744e4d9b47594fae150c18c.js",
     "service-worker.js": "/vivienda/service-worker.js",
     "static/css/2.7116a6b8.chunk.css.map": "/vivienda/static/css/2.7116a6b8.chunk.css.map",
     "static/css/main.57d6e775.chunk.css.map": "/vivienda/static/css/main.57d6e775.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.7116a6b8.chunk.css",
     "static/js/2.96012e8c.chunk.js",
     "static/css/main.57d6e775.chunk.css",
-    "static/js/main.4701eb24.chunk.js"
+    "static/js/main.f1f92618.chunk.js"
   ]
 }
