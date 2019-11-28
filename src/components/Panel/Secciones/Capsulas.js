@@ -7,8 +7,8 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
 const images = [
-  'https://18.219.47.222/apis/vivienda/capsula/INFOGRAFIAS/Control_de_calidad_concreto.png',
-  'https://18.219.47.222/apis/vivienda/capsula/INFOGRAFIAS/Control_de_calidad_terraceria.png',
+  'http://18.219.47.222/apis/vivienda/capsula/INFOGRAFIAS/Control_de_calidad_concreto.png',
+  'http://18.219.47.222/apis/vivienda/capsula/INFOGRAFIAS/Control_de_calidad_terraceria.png',
 ];
 
 class Capsulas extends Component {
@@ -25,32 +25,32 @@ class Capsulas extends Component {
     return (
       <Container fluid={true}>
         <Row className="mb-3">
-          <Col xs={1} md={1} style={{padding: '0'}}>
+          <Col xs={1} sm={1} md={1} style={{padding: '0'}}>
             <SideMenu />
           </Col>
-          <Col xs={8} md={8} style={{padding: '0'}}>
+          <Col xs={12} sm={8} md={8} style={{padding: '0'}}>
             <hr/>
             <h1><i className="lni-chevron-right"></i> CÁPSULAS</h1>
             <hr/>
             <Player
-              src="https://18.219.47.222/apis/vivienda/capsula/Capsula.mp4"
+              src="http://18.219.47.222/apis/vivienda/capsula/Capsula.mp4"
               autoPlay={true}
             >
               <BigPlayButton position="center" />
               <LoadingSpinner />
             </Player>
           </Col>
-          <Col xs={3} md={3}>
+          <Col xs={12} sm={8} md={3}>
             <hr/>
             <h1><i className="lni-chevron-right"></i> INFOGRAFÍAS</h1>
             <hr/>
             <div style={{maxHeight: '500px', overflow: 'auto'}}>
               <button type="button" onClick={() => this.setState({ isOpen: true })}>
-                <img src="https://18.219.47.222/apis/vivienda/capsula/INFOGRAFIAS/Control_de_calidad_concreto.png" alt="" style={{width: '100%'}}/>
+                <img src="http://18.219.47.222/apis/vivienda/capsula/INFOGRAFIAS/Control_de_calidad_concreto.png" alt="" style={{width: '100%'}}/>
               </button>
               <hr/>
               <button type="button" onClick={() => this.setState({ isOpen: true })}>
-                <img src="https://18.219.47.222/apis/vivienda/capsula/INFOGRAFIAS/Control_de_calidad_terraceria.png" alt="" style={{width: '100%'}}/>
+                <img src="http://18.219.47.222/apis/vivienda/capsula/INFOGRAFIAS/Control_de_calidad_terraceria.png" alt="" style={{width: '100%'}}/>
               </button>
               {isOpen && (
                 <Lightbox

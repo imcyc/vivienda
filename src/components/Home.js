@@ -12,8 +12,7 @@ class Home extends Component {
           <div className="wrapper fadeInDown" style={{zIndex: '10'}}>
             <div id="formContent">
                 <div className="fadeIn first">
-                  <h1><span className="azul">VIVIENDA</span><br/><span className="verde">INDUSTRIALIZADA</span></h1>
-                  <p>Manual de buenas prácticas</p>
+                  <h1><span className="azul">MANUAL PARA LA CONSTRUCCIÓN DE VIVIENDA INDUSTRIALIZADA</span></h1>
                 </div>
                 <form>
                   {/*
@@ -23,8 +22,8 @@ class Home extends Component {
                   <div className="container loged">
                     <div className="row">
                       <div className='col-xs-12 col-md-12 col-lg-12'>
-                        <Link to="/capsulas" className="fadeIn fourth mb-0">
-                          <i className="lni-chevron-right"></i> INGRESAR
+                        <Link to="/cimentacion" className="fadeIn fourth mb-0">
+                          <i className="lni-chevron-right" style={{top: '30px'}}></i> INGRESAR
                         </Link>
                       </div>
                     </div>
