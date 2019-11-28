@@ -95,7 +95,7 @@ class App extends Component {
             />
             <Route 
               exact 
-              path={`/panel/:seccion`} 
+              path={`/panel`} 
               component={(props) => <Panel 
                 {...props}
                 datosUsuario={this.state.datosUsuario}

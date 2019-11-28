@@ -38,28 +38,18 @@ class Home extends Component {
           <div className="wrapper fadeInDown" style={{zIndex: '10'}}>
             <div id="formContent">
                 <div className="fadeIn first">
-                  <h1><span className="azul">SOLUCIONES DE</span><br/><span className="verde">AUTOCONSTRUCCIÓN</span></h1>
-                  <p>Manual para la Autoconstrucción y Mejoramiento de la Construcción</p>
-                  <h3 className="rojo">{mensajeLog}</h3>
-                  {this.tituloRegistro(registro)}
+                  <h1><span className="azul">VIVIENDA</span><br/><span className="verde">INDUSTRIALIZADA</span></h1>
+                  <p>Manual de buenas prácticas</p>
                 </div>
-                <form onSubmit={login}>
+                <form>
                   <input type="email" id="login" className="fadeIn second" name="email" placeholder="CORREO ELECTRÓNICO"/>
                   <input type="password" id="password" className="fadeIn third" name="password" placeholder="CONTRASEÑA"/>
-                  {this.renderRegistro(registro)}
                   <div className="container loged">
                     <div className="row">
-                      <div className={registro ? 'col-xs-12 col-md-12 col-lg-12' : 'col-xs-6 col-md-6 col-lg-6'}>
-                        <button 
-                          type="submit"
-                          className="fadeIn fourth mb-0">
-                            {registro ? 'REGISTRARSE E INGRESAR' : 'INGRESAR'}
-                            <i className="lni-chevron-right"></i> 
-                        </button>
-                        {registro ? <Link onClick={loginU} style={{fontSize: '15px'}}>Ya tiene una cuenta?, Ingrese dando click aquí</Link> : ''}
-                      </div>
-                      <div className="col-xs-6 col-md-6 col-lg-6" style={{display: registro ? 'none' : 'block'}}>
-                        <button onClick={registrarse} className="fadeIn fourth">REGISTRARSE <i className="lni-chevron-right"></i> </button>
+                      <div className='col-xs-12 col-md-12 col-lg-12'>
+                        <Link to="/panel" className="fadeIn fourth mb-0">
+                          <i className="lni-chevron-right"></i> INGRESAR
+                        </Link>
                       </div>
                     </div>
                   </div>
