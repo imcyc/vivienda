@@ -38,3 +38,9 @@ footer p { font-size:13px; color:#CCC; padding-bottom:0px; margin-bottom:8px;}
   text-decoration: none;
   color: #FFF;
 }
+
+footer h4 {
+	text-align: center;
+	color: #fff;
+	font-size: 1.3em;
+}
