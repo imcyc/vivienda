@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vivienda/static/css/main.3c6e695b.chunk.css",
-    "main.js": "/vivienda/static/js/main.74d2b5c0.chunk.js",
-    "main.js.map": "/vivienda/static/js/main.74d2b5c0.chunk.js.map",
+    "main.js": "/vivienda/static/js/main.e88efa6d.chunk.js",
+    "main.js.map": "/vivienda/static/js/main.e88efa6d.chunk.js.map",
     "runtime-main.js": "/vivienda/static/js/runtime-main.8adad268.js",
     "runtime-main.js.map": "/vivienda/static/js/runtime-main.8adad268.js.map",
     "static/css/2.28ac8253.chunk.css": "/vivienda/static/css/2.28ac8253.chunk.css",
-    "static/js/2.5a90a9f2.chunk.js": "/vivienda/static/js/2.5a90a9f2.chunk.js",
-    "static/js/2.5a90a9f2.chunk.js.map": "/vivienda/static/js/2.5a90a9f2.chunk.js.map",
+    "static/js/2.b355a782.chunk.js": "/vivienda/static/js/2.b355a782.chunk.js",
+    "static/js/2.b355a782.chunk.js.map": "/vivienda/static/js/2.b355a782.chunk.js.map",
     "index.html": "/vivienda/index.html",
-    "precache-manifest.e66f5c41316047eaefd051bca033329b.js": "/vivienda/precache-manifest.e66f5c41316047eaefd051bca033329b.js",
+    "precache-manifest.c98289e48bdb91734ac1723e1424d3d4.js": "/vivienda/precache-manifest.c98289e48bdb91734ac1723e1424d3d4.js",
     "service-worker.js": "/vivienda/service-worker.js",
     "static/css/2.28ac8253.chunk.css.map": "/vivienda/static/css/2.28ac8253.chunk.css.map",
     "static/css/main.3c6e695b.chunk.css.map": "/vivienda/static/css/main.3c6e695b.chunk.css.map",
@@ -18,8 +18,8 @@
   "entrypoints": [
     "static/js/runtime-main.8adad268.js",
     "static/css/2.28ac8253.chunk.css",
-    "static/js/2.5a90a9f2.chunk.js",
+    "static/js/2.b355a782.chunk.js",
     "static/css/main.3c6e695b.chunk.css",
-    "static/js/main.74d2b5c0.chunk.js"
+    "static/js/main.e88efa6d.chunk.js"
   ]
 }
