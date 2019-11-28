@@ -28,9 +28,35 @@ const Capsulas = () => {
           <hr/>
           <h1><i className="lni-chevron-right"></i> INFOGRAFÍAS</h1>
           <hr/>
-          <img src="https://18.219.47.222/apis/vivienda/capsula/INFOGRAFIAS/Control_de_calidad_concreto.png" alt="" style={{width: '100%'}}/>
-          <hr/>
-          <img src="https://18.219.47.222/apis/vivienda/capsula/INFOGRAFIAS/Control_de_calidad_terraceria.png" alt="" style={{width: '100%'}}/>
+          <div style={{maxHeight: '500px', overflow: 'auto'}}>
+            <img src="https://18.219.47.222/apis/vivienda/cimentacion/1_Certificacion_plataforma.png" alt="" style={{width: '100%'}}/>
+            <hr/>
+            <img src="https://18.219.47.222/apis/vivienda/cimentacion/2_Trazo.png" alt="" style={{width: '100%'}}/>
+            <hr/>
+            <img src="https://18.219.47.222/apis/vivienda/cimentacion/3_Excavacion.png" alt="" style={{width: '100%'}}/>
+            <hr/>
+            <img src="https://18.219.47.222/apis/vivienda/cimentacion/4_Instalacion_hidrosanitaria.png" alt="" style={{width: '100%'}}/>
+            <hr/>
+            <img src="https://18.219.47.222/apis/vivienda/cimentacion/5_Base para cimentacion.png" alt="" style={{width: '100%'}}/>
+            <hr/>
+            <img src="https://18.219.47.222/apis/vivienda/cimentacion/6.0_habilitado_colocacion.png" alt="" style={{width: '100%'}}/>
+            <hr/>
+            <img src="https://18.219.47.222/apis/vivienda/cimentacion/6.1_habilitado_colocacion.png" alt="" style={{width: '100%'}}/>
+            <hr/>
+            <img src="https://18.219.47.222/apis/vivienda/cimentacion/7_colocacion_silletas.png" alt="" style={{width: '100%'}}/>
+            <hr/>
+            <img src="https://18.219.47.222/apis/vivienda/cimentacion/8_Colocacion_electrica.png" alt="" style={{width: '100%'}}/>
+            <hr/>
+            <img src="https://18.219.47.222/apis/vivienda/cimentacion/9_Cimbra perimetral.png" alt="" style={{width: '100%'}}/>
+            <hr/>
+            <img src="https://18.219.47.222/apis/vivienda/cimentacion/10.0_Compactacion_concreto.png" alt="" style={{width: '100%'}}/>
+            <hr/>
+            <img src="https://18.219.47.222/apis/vivienda/cimentacion/10.1_Compactacion_concreto.png" alt="" style={{width: '100%'}}/>
+            <hr/>
+            <img src="https://18.219.47.222/apis/vivienda/cimentacion/11_Nivelacion_concreto.png" alt="" style={{width: '100%'}}/>
+            <hr/>
+            <img src="https://18.219.47.222/apis/vivienda/cimentacion/12_Curado.png" alt="" style={{width: '100%'}}/>
+          </div>
         </Col>
       </Row>
     </Container>

@@ -28,9 +28,11 @@ const Capsulas = () => {
           <hr/>
           <h1><i className="lni-chevron-right"></i> INFOGRAFÍAS</h1>
           <hr/>
-          <img src="https://18.219.47.222/apis/vivienda/capsula/INFOGRAFIAS/Control_de_calidad_concreto.png" alt="" style={{width: '100%'}}/>
-          <hr/>
-          <img src="https://18.219.47.222/apis/vivienda/capsula/INFOGRAFIAS/Control_de_calidad_terraceria.png" alt="" style={{width: '100%'}}/>
+          <div style={{maxHeight: '500px', overflow: 'auto'}}>
+            <img src="https://18.219.47.222/apis/vivienda/capsula/INFOGRAFIAS/Control_de_calidad_concreto.png" alt="" style={{width: '100%'}}/>
+            <hr/>
+            <img src="https://18.219.47.222/apis/vivienda/capsula/INFOGRAFIAS/Control_de_calidad_terraceria.png" alt="" style={{width: '100%'}}/>
+          </div>
         </Col>
       </Row>
     </Container>

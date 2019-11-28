@@ -5,6 +5,7 @@ body {
   font-family: 'Big Shoulders Text', cursive;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #263138;
 }
 
 code {
@@ -15,6 +16,10 @@ code {
 a {
   color: #304d89;
   transition: all 1s;
+}
+
+h1 {
+  color: #ffffff;
 }
 
 a:hover {

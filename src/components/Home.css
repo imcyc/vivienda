@@ -229,7 +229,7 @@ input[type=text]:placeholder {
 }
 
 h1{
-    color:#333;
+    color:#fff;
     padding-top: 10px;
     font-size: 1.5em;
 }
@@ -308,4 +308,8 @@ input[type=text] {
   position: absolute;
   right: 20px;
   top: 20px;
+}
+
+hr {
+  border-top: 1px solid rgba(0,162,210,.2);
 }
