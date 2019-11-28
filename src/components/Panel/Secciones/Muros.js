@@ -9,10 +9,10 @@ const Capsulas = () => {
   return (
     <Container fluid={true}>
       <Row className="mb-3">
-        <Col xs={1} md={1}>
+        <Col xs={1} md={1} style={{padding: '0'}}>
           <SideMenu />
         </Col>
-        <Col xs={8} md={8}>
+        <Col xs={8} md={8} style={{padding: '0'}}>
           <hr/>
           <h1><i className="lni-chevron-right"></i> MUROS</h1>
           <hr/>
