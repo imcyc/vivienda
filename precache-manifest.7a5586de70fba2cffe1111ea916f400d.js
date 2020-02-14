@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "295e677e848429757577dfd3369b9ab3",
+    "revision": "58687e324ccc82f5a7fe49e9b660b875",
     "url": "/vivienda/index.html"
   },
   {
-    "revision": "25b2f7c641c9133742a5",
+    "revision": "ba2a05a9680327cf9578",
     "url": "/vivienda/static/css/2.28ac8253.chunk.css"
   },
   {
-    "revision": "a9948241d3c46ec2fac0",
-    "url": "/vivienda/static/css/main.3a28e530.chunk.css"
+    "revision": "d98af3e72910a3a0ba92",
+    "url": "/vivienda/static/css/main.8b66f6fd.chunk.css"
   },
   {
-    "revision": "25b2f7c641c9133742a5",
-    "url": "/vivienda/static/js/2.5621cd39.chunk.js"
+    "revision": "ba2a05a9680327cf9578",
+    "url": "/vivienda/static/js/2.e6dc047f.chunk.js"
   },
   {
-    "revision": "a9948241d3c46ec2fac0",
-    "url": "/vivienda/static/js/main.b4a93f7f.chunk.js"
+    "revision": "d98af3e72910a3a0ba92",
+    "url": "/vivienda/static/js/main.5c851b18.chunk.js"
   },
   {
     "revision": "2d76689bfb6657b09f10",
