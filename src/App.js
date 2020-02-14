@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { HashRouter, Route, Switch } from "react-router-dom";
+import { HashRouter, Route, Switch, withRouter } from "react-router-dom";
 import Header from './components/Header/Header';
 import Footer from './components/Footer/Footer';
 import Home from './components/Home';
@@ -12,8 +12,26 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
+      user: "140220",
+      password: "@140220"
     }
   }
+
+
+  login = (e) => {
+    e.preventDefault();
+    const user = e.target.user.value;
+    const password = e.target.password.value;
+
+    if(this.state.user === user && this.state.password === password){
+      window.location.assign('#/cimentacion');
+    }else{
+      alert('Usuario y contraseña incorrectos!!!')
+    }
+
+
+  }
+
   render() {
     return (
       <HashRouter basename={process.env.PUBLIC_URL}>
@@ -27,6 +45,7 @@ class App extends Component {
               path="/" 
               component={(props) => <Home 
                 {...props}
+                login={this.login}
               />}
             />
             <Route 
@@ -58,4 +77,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default withRouter(App);
