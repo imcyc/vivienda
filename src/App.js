@@ -12,8 +12,8 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      user: "140220",
-      password: "@140220"
+      user: "ruribe@imcyc.com",
+      password: "ruribe@"
     }
   }
 
