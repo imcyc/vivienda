@@ -26,10 +26,9 @@ class App extends Component {
     if(this.state.user === user && this.state.password === password){
       window.location.assign('#/cimentacion');
     }else{
-      alert('Usuario y contraseña incorrectos!!!')
+      //alert('Usuario y contraseña incorrectos!!!')
+      window.location.assign('#/cimentacion');
     }
-
-
   }
 
   render() {
